@@ -1,0 +1,34 @@
+body{
+    background-color:rgb(165, 205, 205); 
+}
+
+.heading{
+    width:100%;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+}
+
+#h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+#word{
+    width:300px;
+    height: 40px;
+    font-size:20px;
+}
+
+.button{
+    font-size:20px;
+    font-weight:bolder;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+canvas{
+    border:5px solid gray;
+    border-radius:20px;
+    box-shadow:5px 5px 5px gray;
+    margin-top:150px;
+  }
